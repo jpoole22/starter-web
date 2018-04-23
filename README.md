@@ -16,6 +16,8 @@ Simple web project, deployment can be on any web server or even local file syste
 
 ## How To Contribute
 
+Please for this repository and then issue pull requests for review.
+
 ## Copyright
 
 2018 Git.Training.
