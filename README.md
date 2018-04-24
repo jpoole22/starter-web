@@ -1,6 +1,7 @@
 # Starter Web Project
 
 This repository is a simple website project for showing how Git and GitHub work.
+Adding a line for rebasing example.
 
 ## Introduction
 
